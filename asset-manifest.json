@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reyaxe.contador.gihub.io/static/css/main.a14b48d4.css",
+    "main.js": "/reyaxe.contador.gihub.io/static/js/main.0abb6a0a.js",
+    "index.html": "/reyaxe.contador.gihub.io/index.html",
+    "main.a14b48d4.css.map": "/reyaxe.contador.gihub.io/static/css/main.a14b48d4.css.map",
+    "main.0abb6a0a.js.map": "/reyaxe.contador.gihub.io/static/js/main.0abb6a0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a14b48d4.css",
+    "static/js/main.0abb6a0a.js"
+  ]
+}
